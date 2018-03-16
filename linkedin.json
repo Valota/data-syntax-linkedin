@@ -1,0 +1,15 @@
+{
+  "vType": "array",
+ "required": 1,
+ "elem": {
+ "vType": "object",
+  "timestamp":{
+      "vType":"int",
+      "required":1
+    },
+  "updateContent":{
+    "vType":"object",
+    "required":1
+  }
+ }
+}
